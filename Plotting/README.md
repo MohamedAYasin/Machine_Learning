@@ -43,7 +43,7 @@ To run the analysis, mount your Google Drive in the Colab notebook, navigate to 
 
 ## Contributors:
 
-(Mohamed Yasin)[https://github.com/MohamedAYasin/]
+[Mohamed Yasin 2024](https://github.com/MohamedAYasin/)
 
 
 This project is open-source and available under the [MIT License](LICENSE).
